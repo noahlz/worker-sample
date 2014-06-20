@@ -16,7 +16,7 @@ To run locally:
 
     $ lein run -m worker.main
 
-To run on Heroku, follow their very good tutorial:
+To run on Heroku, follow their very well-written tutorial:
 
 https://devcenter.heroku.com/articles/getting-started-with-clojure#local-workstation-setup
 
